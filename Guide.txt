@@ -1,0 +1,3 @@
+-npx create-next-app nft-marketplace
+-yarn add ethers hardhat @nomiclabs/hardhat-waffle ehtereum-waffle chai @nomicalabs/hardhat-ethers web3modal @openzeppelin/contracts ipfs-http-client axios
+-yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest
